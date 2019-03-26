@@ -15,7 +15,7 @@ public class CIApplicationTest {
     }
 
     @Test
-    void test() {
+    public void test() {
         assertEquals(2, 2);
     }
 }
